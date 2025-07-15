@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Iqbal Al Anshori</h1>
 
-<!--
-**iqbalanshor/iqbalanshor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=I'm+a+Junior+Web+Developer;I'm+a+Junior+Mobile+App+Developer;Learning+JS%2C+PHP%2C+Android+Studio" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhArifyanto&label=Profile%20views&color=0e75b6&style=flat" alt="MuhArifyanto" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Saya saat ini masih dalam tahap belajar membuat website dan aplikasi  
+- 💻 Saya seorang Junior Developer di bidang Web dan Aplikasi Android  
+- 👨‍💻 Semua project saya ada di [GitHub](https://github.com/iqbalanshor)
+- 📫 Hubungi saya via email: iqbaltelagaharapan@gmail.com  
+
+---
+
+## 🚀 Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=w3c&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbalanshor&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalanshor&layout=compact&theme=tokyonight" />
+</p>
